@@ -1,0 +1,9 @@
+%in terminal run: comsol mphserver
+
+%In MATLAB, add the path of the /home/comsol61/multiphysics/mli
+
+%run in terminal:
+
+mphstart
+
+%will get message like: MATLAB is now connected to a COMSOL Multiphysics Server at localhost:2XX1
