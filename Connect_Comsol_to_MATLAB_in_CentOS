@@ -2,7 +2,7 @@
 
 %In MATLAB, add the path of the /home/comsol61/multiphysics/mli
 
-%run in terminal:
+%run in MATLAB:
 
 mphstart
 
